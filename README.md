@@ -1,39 +1,13 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=FF1744&text=%3E%20LEVEL%20UP%20%3C&fontSize=70&desc=SUNG%20JINWOO%20%7C%20HUNTER%20CLASS%20DEVELOPER&descSize=22&descColor=FFD700&animation=fadeIn" />
-</div>
 
----
-
-## ⚔️ `> ./hunter_profile.sh`
-
-<div align="center">
-
-<img align="right" height="200" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Sung Jinwoo Leveling Up" />
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🌑 DUNGEON BREAKER 🌑                     ║
-║                  SUNG JINWOO'S SHADOW MODE                   ║
-╠══════════════════════════════════════════════════════════════╣
-║  NAME        → Kiran (Shadow Hunter)                         ║
-║  RANK        → S-RANK DEVELOPER (Rising)                     ║
-║  LEVEL       → 🔴 LVL 32 (EXP: 847,293/1,000,000)           ║
-║  COLLEGE     → Malla Reddy Engineering Dungeon               ║
-║  BRANCH      → Electrical & Electronics (Magic)              ║
-║  POWER       → Generative AI | Web3 Contracts | Solo Queue   ║
-║  SKILLS      → Python | TypeScript | Solidity | React        ║
-║  STATUS      → 🟢 ACTIVE LEVELING UP                         ║
-║  NEXT GATE   → Senior Developer / Staff Engineer             ║
-╠══════════════════════════════════════════════════════════════╣
-║  💀 SPECIAL ABILITY: Multi-Agent Orchestration               ║
-║  ⚡ ULTIMATE: Autonomous AI Incident Resolution              ║
-║  🔗 BLESSING: Web3 Smart Contracts Mastery                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<a href="https://github.com/kiran797979">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=FFD700&background=0A0F08&center=true&vCenter=true&width=650&lines=Awakening+as+an+S-Rank+Developer;Multi-Agent+Orchestration+Specialist;Web3+Sorcery+%2B+Generative+AI;Currently+Farming+XP+in+the+Shadow+Realm" />
+</a>
 
 </div>
 
-<br clear="both">
+<br />
 
 ---
 
@@ -52,12 +26,47 @@
 
 ---
 
+## ⚔️ `> ./hunter_profile.sh`
+
+<div align="center">
+
+<img align="right" height="200" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Sung Jinwoo Leveling Up" />
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🌑 DUNGEON BREAKER 🌑                     ║
+║                  SUNG JINWOO'S SHADOW MODE                   ║
+╠══════════════════════════════════════════════════════════════╣
+║  NAME        → Kiran (Shadow Hunter)                         ║
+║  RANK        → S-RANK DEVELOPER (Rising)                     ║
+║  LEVEL       → 🔴 LVL 32 (EXP: 847,293/1,000,000)           ║
+║  COLLEGE     → Malla Reddy Engineering Dungeon                ║
+║  BRANCH      → Electrical & Electronics (Magic)              ║
+║  POWER       → Generative AI | Web3 Contracts | Solo Queue   ║
+║  SKILLS      → Python | TypeScript | Solidity | React        ║
+║  STATUS      → 🟢 ACTIVE LEVELING UP                         ║
+║  NEXT GATE   → Senior Developer / Staff Engineer             ║
+╠══════════════════════════════════════════════════════════════╣
+║  💀 SPECIAL ABILITY: Multi-Agent Orchestration               ║
+║  ⚡ ULTIMATE: Autonomous AI Incident Resolution               ║
+║  🔗 BLESSING: Web3 Smart Contracts Mastery                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Level Progress](https://img.shields.io/badge/LEVEL_32-84.7%25_XP_to_LEVEL_33-FF1744?style=for-the-badge&labelColor=0A0F08)
+
+</div>
+
+<br clear="both">
+
+---
+
 ## 💀 My Shadows (Power Stats)
 
 <div align="center">
 
 | 🌑 Stat | ██████████ | Level |
-|:---|:---|:---|
+|:---|:---|:---:|
 | **AI Mastery** | ████████░░ | 8/10 |
 | **Web3 Sorcery** | ███████░░░ | 7/10 |
 | **Full Stack Combat** | █████████░ | 9/10 |
@@ -74,11 +83,11 @@
 
 <div align="center">
 
-### 🤖 AI Weapons
-![AI Arsenal](https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark)
-
 ### ⚡ Core Spells
 ![Languages](https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css&theme=dark)
+
+### 🤖 AI Weapons
+![AI Arsenal](https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark)
 
 ### 🎨 UI Enchantment
 ![Frontend Magic](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)
@@ -99,10 +108,10 @@
 
 | 💀 Power | 🔥 Mastery | ✨ Description |
 |:---|:---:|:---|
-| **Generative AI & LLMs** | ⭐⭐⭐⭐⭐ | GPT, Claude, LangChain, RAG - Shadow Extracted |
+| **Generative AI & LLMs** | ⭐⭐⭐⭐⭐ | GPT, Claude, LangChain, RAG — Shadow Extracted |
 | **Autonomous Agents** | ⭐⭐⭐⭐⭐ | Multi-agent orchestration, incident response automation |
+| **Full Stack Dominance** | ⭐⭐⭐⭐⭐ | React, Node.js, TypeScript — Production Ready |
 | **AI/ML Engineering** | ⭐⭐⭐⭐ | ML models, price tracking, content generation, document analysis |
-| **Full Stack Dominance** | ⭐⭐⭐⭐⭐ | React, Node.js, TypeScript - Production Ready |
 | **Web3 Sorcery** | ⭐⭐⭐⭐ | Solidity, DeFi, Smart Contracts, Crypto Wallets |
 | **Web Testing Assassin** | ⭐⭐⭐⭐ | Autonomous testing agents, QA automation, bug hunting |
 
@@ -110,21 +119,46 @@
 
 ---
 
-## ⚔️ Epic Quest Achievements
+## 🗺️ Quick Quest Index
+
+<div align="center">
+
+| Tier | Project | Category | Stack | Repo |
+|:---:|:---|:---|:---|:---:|
+| 💎💎💎💎💎 S | **AI Coliseum** | Web3 + AI | TypeScript · Monad · Smart Contracts | [→](https://github.com/kiran797979/ai-coliseum) |
+| 💎💎💎💎💎 S | **IncidentZero** | Autonomous AI | Python · LLMs · CrewAI | [→](https://github.com/kiran797979/IncidentZero) |
+| 💎💎💎💎 A | **Sentinel QA** | AI Testing | Python · Playwright · LLMs | [→](https://github.com/kiran797979/sentinel-qa) |
+| 💎💎💎💎 A | **GenAI Financial Guardian** | GenAI | JavaScript · React | [→](https://github.com/kiran797979/GenAI_Financial_Guardian) |
+| 💎💎💎💎 A | **AI Price Tracker** | AI/ML | Python · Scraping · ML | [→](https://github.com/kiran797979/AI-Price_Tracker) |
+| 💎💎💎💎 A | **AI Document RAG** | GenAI | Python · LangChain · Vector DBs | [→](https://github.com/kiran797979/AI_Document_RAG) |
+| 💎💎💎💎 A | **AI Content Creator** | GenAI | TypeScript · GenAI APIs | [→](https://github.com/kiran797979/AI_CONTENT_CREATOR) |
+| 💎💎💎 B | **QKart E-Commerce** | Full Stack | React · Node.js · MongoDB | [FE](https://github.com/kiran797979/Qkart---Frontend) · [BE](https://github.com/kiran797979/Qkart_backend) |
+| 💎💎💎 B | **QTrip Travel Booking** | Full Stack | React · JS · HTML/CSS | [→](https://github.com/kiran797979/QTrip---Dynamic) |
+| 💎💎💎 B | **Jupiter Wallet** | Web3 | TypeScript · Solana · React | [→](https://github.com/kiran797979/jupiter-wallet) |
+
+</div>
+
+<br />
+
+---
+
+## ⚔️ Epic Quest Log (Detailed)
+
+### 🌑 Tier S — Legendary Clears
 
 <details open>
-<summary><b>🔥 TIER-S: AI Coliseum — Agent Arena on Monad</b></summary>
+<summary><b>🔥 AI Coliseum — Agent Arena on Monad</b></summary>
+<br>
 
-Decentralized battle arena where AI agents compete in prediction markets. Like a dungeon but for neural networks.
+Decentralized battle arena where AI agents compete in prediction markets — like a dungeon, but for neural networks.
 
 | Stat | Details |
 | :--- | :--- |
 | **Stack** | TypeScript · Monad · Smart Contracts |
-| **Quest Status** | 🟢 Active Leveling |
-| **Rarity** | 💎💎💎💎💎 Legendary |
+| **Status** | 🟢 Active Leveling |
 | **Repo** | [Enter Dungeon](https://github.com/kiran797979/ai-coliseum) |
 
-⚔️ **Shadow Extraction:**
+**Shadow Extraction:**
 - Multi-agent AI orchestration framework
 - Smart contract prediction engine
 - Real-time agent performance tracking
@@ -132,37 +166,39 @@ Decentralized battle arena where AI agents compete in prediction markets. Like a
 </details>
 
 <details>
-<summary><b>🌑 TIER-S: IncidentZero — Autonomous SRE Shadow Team</b></summary>
+<summary><b>🌑 IncidentZero — Autonomous SRE Shadow Team</b></summary>
+<br>
 
-Multi-agent incident resolution system. Detects chaos, diagnoses root cause, eliminates problems. Pure automation.
+Multi-agent incident resolution system. Detects chaos, diagnoses root cause, eliminates problems — pure automation.
 
 | Stat | Details |
 | :--- | :--- |
 | **Stack** | Python · LLMs · Multi-Agent CrewAI |
-| **Quest Status** | 🟢 In Production |
-| **Rarity** | 💎💎💎💎💎 Legendary |
+| **Status** | 🟢 In Production |
 | **Repo** | [Shadow Protocol](https://github.com/kiran797979/IncidentZero) |
 
-⚔️ **Shadow Extraction:**
+**Shadow Extraction:**
 - Autonomous SRE agent team using CrewAI
 - Incident detection & diagnosis engine
 - Root cause analysis automation
 
 </details>
 
-<details>
-<summary><b>🔍 TIER-A: Sentinel QA — Autonomous Testing Assassin</b></summary>
+### ⚡ Tier A — Epic Clears
 
-AI-powered QA that hunts bugs autonomously. Detects failures, diagnoses regressions, tracks performance degradation.
+<details>
+<summary><b>🔍 Sentinel QA — Autonomous Testing Assassin</b></summary>
+<br>
+
+AI-powered QA that hunts bugs autonomously — detects failures, diagnoses regressions, tracks performance degradation.
 
 | Stat | Details |
 | :--- | :--- |
 | **Stack** | Python · Playwright · LLM Integration |
-| **Quest Status** | 🟢 Active Development |
-| **Rarity** | 💎💎💎💎 Epic |
+| **Status** | 🟢 Active Development |
 | **Repo** | [Bug Hunter](https://github.com/kiran797979/sentinel-qa) |
 
-⚔️ **Shadow Extraction:**
+**Shadow Extraction:**
 - Autonomous web interaction testing
 - AI-powered regression detection
 - Automated failure diagnosis
@@ -170,18 +206,18 @@ AI-powered QA that hunts bugs autonomously. Detects failures, diagnoses regressi
 </details>
 
 <details>
-<summary><b>💰 TIER-A: GenAI Financial Guardian — Smart Money Master</b></summary>
+<summary><b>💰 GenAI Financial Guardian — Smart Money Master</b></summary>
+<br>
 
-AI financial analysis. Expense categorization, predictive insights, smart recommendations. Your money's bodyguard.
+AI financial analysis: expense categorization, predictive insights, smart recommendations.
 
 | Stat | Details |
 | :--- | :--- |
 | **Stack** | JavaScript · GenAI · React |
 | **⭐ Stars** | 5⭐ Community Recognition |
-| **Rarity** | 💎💎💎💎 Epic |
 | **Repo** | [Guardian Protocol](https://github.com/kiran797979/GenAI_Financial_Guardian) |
 
-⚔️ **Shadow Extraction:**
+**Shadow Extraction:**
 - AI-powered expense analysis
 - Smart financial recommendations
 - Predictive spending patterns
@@ -189,18 +225,18 @@ AI financial analysis. Expense categorization, predictive insights, smart recomm
 </details>
 
 <details>
-<summary><b>📊 TIER-A: AI Price Tracker — Market Intelligence System</b></summary>
+<summary><b>📊 AI Price Tracker — Market Intelligence System</b></summary>
+<br>
 
-Real-time price tracking with AI prediction. Market trends, alerts, predictive analytics. Stay ahead of chaos.
+Real-time price tracking with AI prediction: market trends, alerts, predictive analytics.
 
 | Stat | Details |
 | :--- | :--- |
 | **Stack** | Python · Web Scraping · ML |
 | **⭐ Stars** | 6⭐ Community Recognition |
-| **Rarity** | 💎💎💎💎 Epic |
 | **Repo** | [Price Hunter](https://github.com/kiran797979/AI-Price_Tracker) |
 
-⚔️ **Shadow Extraction:**
+**Shadow Extraction:**
 - Autonomous price tracking
 - Market trend prediction
 - Intelligent alert system
@@ -208,18 +244,18 @@ Real-time price tracking with AI prediction. Market trends, alerts, predictive a
 </details>
 
 <details>
-<summary><b>📖 TIER-A: AI Document RAG — Knowledge Extraction</b></summary>
+<summary><b>📖 AI Document RAG — Knowledge Extraction</b></summary>
+<br>
 
-RAG system for intelligent document querying. Embeddings, vector search, context-aware QA. Knowledge unleashed.
+RAG system for intelligent document querying: embeddings, vector search, context-aware QA.
 
 | Stat | Details |
 | :--- | :--- |
 | **Stack** | Python · LangChain · Vector DBs |
 | **⭐ Stars** | 4⭐ Community Recognition |
-| **Rarity** | 💎💎💎💎 Epic |
 | **Repo** | [Knowledge Gate](https://github.com/kiran797979/AI_Document_RAG) |
 
-⚔️ **Shadow Extraction:**
+**Shadow Extraction:**
 - Document embedding & retrieval
 - Context-aware QA system
 - Multi-document analysis
@@ -227,37 +263,39 @@ RAG system for intelligent document querying. Embeddings, vector search, context
 </details>
 
 <details>
-<summary><b>🎨 TIER-A: AI Content Creator — Multi-Format Generation</b></summary>
+<summary><b>🎨 AI Content Creator — Multi-Format Generation</b></summary>
+<br>
 
-AI content creation on steroids. Blog posts, code, tweets, emails. One prompt, infinite content.
+AI content creation across formats: blog posts, code, tweets, emails from a single prompt.
 
 | Stat | Details |
 | :--- | :--- |
 | **Stack** | TypeScript · GenAI APIs |
-| **Quest Status** | 🟢 Active |
-| **Rarity** | 💎💎💎💎 Epic |
+| **Status** | 🟢 Active |
 | **Repo** | [Creator Spell](https://github.com/kiran797979/AI_CONTENT_CREATOR) |
 
-⚔️ **Shadow Extraction:**
+**Shadow Extraction:**
 - Multi-format content generation
 - Style & tone customization
 - Bulk creation pipeline
 
 </details>
 
-<details>
-<summary><b>🛒 TIER-B: QKart E-Commerce — Full Stack Fortress</b></summary>
+### 🗡️ Tier B — Rare Clears
 
-Complete e-commerce system. Frontend, backend, database, payments. Production-grade stack.
+<details>
+<summary><b>🛒 QKart E-Commerce — Full Stack Fortress</b></summary>
+<br>
+
+Complete e-commerce system: frontend, backend, database, payments — production-grade stack.
 
 | Stat | Details |
 | :--- | :--- |
 | **Stack** | React · Node.js · MongoDB · Express |
-| **⭐ Stars** | Frontend: 6⭐ \| Backend: 4⭐ |
-| **Rarity** | 💎💎💎 Rare |
-| **Modules** | [Frontend](https://github.com/kiran797979/Qkart---Frontend) \| [Backend](https://github.com/kiran797979/Qkart_backend) |
+| **⭐ Stars** | Frontend: 6⭐ · Backend: 4⭐ |
+| **Modules** | [Frontend](https://github.com/kiran797979/Qkart---Frontend) · [Backend](https://github.com/kiran797979/Qkart_backend) |
 
-⚔️ **Shadow Extraction:**
+**Shadow Extraction:**
 - Scalable React frontend with Redux
 - Node.js backend with JWT auth
 - MongoDB database optimization
@@ -266,18 +304,18 @@ Complete e-commerce system. Frontend, backend, database, payments. Production-gr
 </details>
 
 <details>
-<summary><b>✈️ TIER-B: QTrip Travel Booking — Journey Planner</b></summary>
+<summary><b>✈️ QTrip Travel Booking — Journey Planner</b></summary>
+<br>
 
-Travel booking system showcasing skill progression. Static HTML → Dynamic React evolution.
+Travel booking system showcasing skill progression — static HTML through to a dynamic React build.
 
 | Stat | Details |
 | :--- | :--- |
 | **Stack** | JavaScript · React · HTML/CSS |
-| **⭐ Stars** | Dynamic: 7⭐ \| Static: 5⭐ |
-| **Rarity** | 💎💎💎 Rare |
-| **Modules** | [Static](https://github.com/kiran797979/Qtrip----Static) \| [Dynamic](https://github.com/kiran797979/QTrip---Dynamic) |
+| **⭐ Stars** | Dynamic: 7⭐ · Static: 5⭐ |
+| **Modules** | [Static](https://github.com/kiran797979/Qtrip----Static) · [Dynamic](https://github.com/kiran797979/QTrip---Dynamic) |
 
-⚔️ **Shadow Extraction:**
+**Shadow Extraction:**
 - Responsive UI design
 - Dynamic filtering & search
 - Real-time booking system
@@ -285,23 +323,44 @@ Travel booking system showcasing skill progression. Static HTML → Dynamic Reac
 </details>
 
 <details>
-<summary><b>💳 TIER-B: Jupiter Wallet — Solana Web3 Integration</b></summary>
+<summary><b>💳 Jupiter Wallet — Solana Web3 Integration</b></summary>
+<br>
 
-Web3 wallet dApp with Solana integration. Token swaps, secure key management, blockchain interaction.
+Web3 wallet dApp with Solana integration: token swaps, secure key management, blockchain interaction.
 
 | Stat | Details |
 | :--- | :--- |
 | **Stack** | TypeScript · Solana · React |
 | **⭐ Stars** | 9⭐ Community Love |
-| **Rarity** | 💎💎💎 Rare |
 | **Repo** | [Wallet Protocol](https://github.com/kiran797979/jupiter-wallet) |
 
-⚔️ **Shadow Extraction:**
+**Shadow Extraction:**
 - Solana wallet integration
 - Token swapping functionality
 - Secure key management
 
 </details>
+
+<br />
+
+---
+
+## 🌑 Additional Shadow Soldiers
+
+<div align="center">
+
+Smaller conquests, still enlisted in the shadow army:
+
+| Project | Domain | Repo |
+|:---|:---|:---:|
+| Web Interaction Agent | Autonomous Testing | [→](https://github.com/kiran797979/Autonomous_Web_Interaction_Testing_Agent) |
+| Chatbot AI BOT | Conversational AI | [→](https://github.com/kiran797979/Chatbot_AI_BOT) |
+| Shardeum AI Risk | Web3 Risk Analysis | [→](https://github.com/kiran797979/Shardeum_AI_Risk) |
+| KYCLESS | DeFi Solution | [→](https://github.com/kiran797979/KYCLESS) |
+| RailPulse | Railway Info Platform | [→](https://github.com/kiran797979/RailPulse) |
+| Medify | Healthcare App | [→](https://github.com/kiran797979/Medifyapp) |
+
+</div>
 
 <br />
 
@@ -318,6 +377,8 @@ Web3 wallet dApp with Solana integration. Token swaps, secure key management, bl
 </div>
 
 <br />
+
+## 📈 Top Languages
 
 <div align="center">
 
@@ -341,7 +402,7 @@ Web3 wallet dApp with Solana integration. Token swaps, secure key management, bl
 
 ---
 
-## 📈 Daily Grind (Contribution Graph)
+## 📅 Daily Grind (Contribution Graph)
 
 <div align="center">
 
@@ -359,7 +420,7 @@ Web3 wallet dApp with Solana integration. Token swaps, secure key management, bl
 $ shadow_mode --execute
 
 current_level: 32
-next_milestone: 
+next_milestone:
   - Advanced LLM Fine-tuning (Shadow Edition)
   - Autonomous Multi-Agent Architecture
   - Smart Contract Security Mastery
@@ -389,7 +450,7 @@ raid_opportunities:
 
 ---
 
-## 🌟 Hidden Quest Log
+## 🌟 Milestone Log
 
 | 🔥 Achievement | 📍 Status | 💎 Reward |
 |:---|:---:|:---|
@@ -404,31 +465,15 @@ raid_opportunities:
 
 ---
 
-## 🗡️ Weapon Categories (Projects)
+## 📖 Education (Dungeon of Knowledge)
 
-### 🤖 **Shadow Abilities (AI & Autonomous)**
-- [IncidentZero](https://github.com/kiran797979/IncidentZero) → SRE Automation
-- [Sentinel QA](https://github.com/kiran797979/sentinel-qa) → Testing Assassin
-- [AI Document RAG](https://github.com/kiran797979/AI_Document_RAG) → Knowledge Vault
-- [Web Interaction Agent](https://github.com/kiran797979/Autonomous_Web_Interaction_Testing_Agent) → Web Hunter
+<div align="center">
 
-### 🚀 **Spell Books (GenAI)**
-- [AI Content Creator](https://github.com/kiran797979/AI_CONTENT_CREATOR) → Generation Grimoire
-- [Financial Guardian](https://github.com/kiran797979/GenAI_Financial_Guardian) → Money Magic
-- [AI Price Tracker](https://github.com/kiran797979/AI-Price_Tracker) → Market Oracle
-- [Chatbot AI](https://github.com/kiran797979/Chatbot_AI_BOT) → Conversation Master
+![Malla Reddy](https://img.shields.io/badge/Malla%20Reddy%20Dungeon-FF1744?style=for-the-badge&logo=graduation-cap&logoColor=FFD700)
+![EEE](https://img.shields.io/badge/EEE%20Magic%20School-FFD700?style=for-the-badge)
+![2023--27](https://img.shields.io/badge/Portal%3A%202023%20--%202027-4CAF50?style=for-the-badge)
 
-### 🔗 **Blockchain Gates (Web3)**
-- [AI Coliseum](https://github.com/kiran797979/ai-coliseum) → Agent Arena
-- [Jupiter Wallet](https://github.com/kiran797979/jupiter-wallet) → Wallet Protocol
-- [Shardeum AI Risk](https://github.com/kiran797979/Shardeum_AI_Risk) → Risk Analyzer
-- [KYCLESS](https://github.com/kiran797979/KYCLESS) → DeFi Solution
-
-### 💻 **Full Stack Fortresses**
-- [QKart](https://github.com/kiran797979/Qkart---Frontend) → E-Commerce Platform
-- [QTrip](https://github.com/kiran797979/QTrip---Dynamic) → Travel System
-- [RailPulse](https://github.com/kiran797979/RailPulse) → Railway Info
-- [Medify](https://github.com/kiran797979/Medifyapp) → Healthcare App
+</div>
 
 <br />
 
@@ -454,21 +499,7 @@ raid_opportunities:
 
 > *"Even if you fall, never stop climbing. Every failure is a gate you pass through. Level up or be left behind. The hunt never ends."*
 >
-> — **Sung Jinwoo's Philosophy** 
-
-<br />
-
----
-
-## 📖 Education (Dungeon of Knowledge)
-
-<div align="center">
-
-![Malla Reddy](https://img.shields.io/badge/Malla%20Reddy%20Dungeon-FF1744?style=for-the-badge&logo=graduation-cap&logoColor=FFD700)
-![EEE](https://img.shields.io/badge/EEE%20Magic%20School-FFD700?style=for-the-badge)
-![2023--27](https://img.shields.io/badge/Portal%3A%202023%20--%202027-4CAF50?style=for-the-badge)
-
-</div>
+> — **Sung Jinwoo's Philosophy**
 
 <br />
 
