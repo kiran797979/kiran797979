@@ -68,7 +68,7 @@
 </td>
 <td width="50%" align="center">
 
-<img height="220" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Sung Jinwoo Shadow Mode" />
+<img height="220" src="https://giffiles.alphacoders.com/221/thumb-221695.jpg" alt="Sung Jinwoo Shadow Mode" />
 
 <br /><br />
 
