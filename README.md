@@ -1,15 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=FF1744&text=%3E%20LEVEL%20UP%20%3C&fontSize=70&desc=SUNG%20JINWOO%20%7C%20HUNTER%20CLASS%20DEVELOPER&descSize=22&descColor=FFD700&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0A0F08&fontColor=FF1744&text=%3E%20LEVEL%20UP%20%3C&fontSize=70&fontAlignY=38&desc=SUNG%20JINWOO%20%7C%20HUNTER%20CLASS%20DEVELOPER&descSize=22&descAlignY=60&descColor=FFD700&animation=fadeIn" />
 
 <a href="https://github.com/kiran797979">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=FFD700&background=0A0F08&center=true&vCenter=true&width=650&lines=Awakening+as+an+S-Rank+Developer;Multi-Agent+Orchestration+Specialist;Web3+Sorcery+%2B+Generative+AI;Currently+Farming+XP+in+the+Shadow+Realm;Hunting+Gates+%7C+Slaying+Bugs+%7C+Shipping+Code" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFD700&center=true&vCenter=true&width=700&height=60&lines=Awakening+as+an+S-Rank+Developer;Multi-Agent+Orchestration+Specialist;Web3+Sorcery+%2B+Generative+AI;Currently+Farming+XP+in+the+Shadow+Realm;Hunting+Gates+%7C+Slaying+Bugs+%7C+Shipping+Code"
+    alt="Typing SVG"
+  />
 </a>
 
 <br><br>
 
 <img
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJvY3pjcmUxeTRndDF0a29oZHpycHZkbnY3YTl4OTVtNzR2N3BreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VrtvDMP4ajo5y/giphy.gif"
+  src="https://media.giphy.com/media/VrtvDMP4ajo5y/giphy.gif"
   width="700"
   alt="Sung Jinwoo Solo Leveling"
 />
