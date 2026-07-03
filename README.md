@@ -6,6 +6,10 @@
 
 ## ⚔️ `> ./hunter_profile.sh`
 
+<div align="center">
+
+<img align="right" height="200" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Sung Jinwoo Leveling Up" />
+
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                    🌑 DUNGEON BREAKER 🌑                     ║
@@ -27,7 +31,9 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br />
+</div>
+
+<br clear="both">
 
 ---
 
@@ -340,23 +346,6 @@ Web3 wallet dApp with Solana integration. Token swaps, secure key management, bl
 <div align="center">
 
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=kiran797979&bg_color=0a0f08&color=FF1744&line=FFD700&point=FFD700&area=true&hide_border=true)](https://github.com/kiran797979)
-
-</div>
-
-<br />
-
----
-
-## 🐍 Shadow Animation
-
-```
-Your shadows are still hunting... 👹
-The snake continues to consume your enemies...
-```
-
-<div align="center">
-
-![Snake Hunting](https://raw.githubusercontent.com/kiran797979/kiran797979/output/snake.svg)
 
 </div>
 
