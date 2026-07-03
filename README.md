@@ -72,7 +72,7 @@
 
 <br /><br />
 
-![Level Progress](https://img.shields.io/badge/LEVEL_32-84.7%25_XP-FF1744?style=for-the-badge&labelColor=0A0F08)
+![Level Progress](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBwaXl3MDNueWtxMXY3Nm5rMnlidDVkODdsMXZ5Y2k2N2puaHNscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 </td>
 </tr>
