@@ -103,12 +103,12 @@
 
 | 🌑 Stat | Progress | Level |
 |:---|:---|:---:|
-| **AI Mastery** | ████████░░ | 8/10 |
-| **Web3 Sorcery** | ███████░░░ | 7/10 |
+| **AI Mastery** | █████████░ | 9/10 |
+| **Web3 Sorcery** | ███████░░░ | 8/10 |
 | **Full Stack Combat** | █████████░ | 9/10 |
-| **System Design** | ██████░░░░ | 6/10 |
+| **System Design** | ███████░░░ | 8/10 |
 | **Problem Solving** | █████████░ | 9/10 |
-| **Leadership** | █████░░░░░ | 5/10 |
+| **Leadership** | █████████░ | 9/10 |
 
 </div>
 
