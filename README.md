@@ -19,13 +19,6 @@
 
 <br>
 
----
-
----
-
-
----
-
 ## 📍 Shadow Gate Links
 
 <div align="center">
@@ -157,55 +150,12 @@
 
 <br />
 
----
 
-## 🗺️ Quick Quest Index
-
-<div align="center">
-
-| Tier | Project | Category | Stack | Stars | Link |
-|:---:|:---|:---|:---|:---:|:---:|
-| 💎💎💎💎💎 | **AI Coliseum** | Web3 + AI | TypeScript · Monad | 🌟 | [→](https://github.com/kiran797979/ai-coliseum) |
-| 💎💎💎💎💎 | **IncidentZero** | Autonomous AI | Python · CrewAI | 🌟 | [→](https://github.com/kiran797979/IncidentZero) |
-| 💎💎💎💎 | **Sentinel QA** | AI Testing | Python · Playwright | ⭐⭐ | [→](https://github.com/kiran797979/sentinel-qa) |
-| 💎💎💎💎 | **GenAI Financial Guardian** | GenAI | JavaScript · React | ⭐⭐⭐⭐⭐ | [→](https://github.com/kiran797979/GenAI_Financial_Guardian) |
-| 💎💎💎💎 | **AI Price Tracker** | AI/ML | Python · ML | ⭐⭐⭐⭐⭐⭐ | [→](https://github.com/kiran797979/AI-Price_Tracker) |
-| 💎💎💎💎 | **AI Document RAG** | GenAI | Python · LangChain | ⭐⭐⭐⭐ | [→](https://github.com/kiran797979/AI_Document_RAG) |
-| 💎💎💎💎 | **AI Content Creator** | GenAI | TypeScript · APIs | ⭐ | [→](https://github.com/kiran797979/AI_CONTENT_CREATOR) |
-| 💎💎💎 | **QKart E-Commerce** | Full Stack | React · Node.js | ⭐⭐⭐⭐⭐⭐ | [FE](https://github.com/kiran797979/Qkart---Frontend) |
-| 💎💎💎 | **QTrip Travel Booking** | Full Stack | React · JS | ⭐⭐⭐⭐⭐⭐⭐ | [→](https://github.com/kiran797979/QTrip---Dynamic) |
-| 💎💎💎 | **Jupiter Wallet** | Web3 | TypeScript · Solana | ⭐⭐⭐⭐⭐⭐⭐⭐⭐ | [→](https://github.com/kiran797979/jupiter-wallet) |
-
-</div>
 
 <br />
 
 ---
 
-## ⚔️ Epic Quest Log (Detailed)
-
-### 🌑 Tier S — Legendary Clears
-
-<details open>
-<summary><b>🔥 AI Coliseum — Agent Arena on Monad Blockchain</b></summary>
-
-**Description:** Decentralized battle arena where AI agents compete in prediction markets. Think of it as a dungeon, but for neural networks.
-
-| Stat | Details |
-| :--- | :--- |
-| **Stack** | TypeScript · Monad · Smart Contracts · Web3.js |
-| **Status** | 🟢 Active Development |
-| **Architecture** | Multi-agent orchestration on blockchain |
-| **Repo** | [Enter the Arena](https://github.com/kiran797979/ai-coliseum) |
-| **Tech Depth** | Smart contract deployment, Agent API integration, Real-time leaderboards |
-
-**Shadow Extraction:**
-- Built multi-agent AI orchestration framework
-- Designed smart contract prediction engine
-- Implemented real-time agent performance tracking
-- Created blockchain-based rating system
-
-**Why it's S-Rank:** Combines cutting-edge AI agents with Web3 infrastructure in a novel way.
 
 </details>
 
@@ -232,38 +182,7 @@
 
 </details>
 
-### ⚡ Tier A — Epic Clears
 
-<details>
-<summary><b>🔍 Sentinel QA — Autonomous Testing Assassin</b></summary>
-
-**Description:** AI-powered QA that hunts bugs autonomously. Detects failures, diagnoses regressions, tracks performance degradation.
-
-| Stat | Details |
-| :--- | :--- |
-| **Stack** | Python · Playwright · LLM Integration · BeautifulSoup |
-| **Status** | 🟢 Active Development |
-| **Architecture** | AI-driven web interaction testing |
-| **Repo** | [Bug Hunter](https://github.com/kiran797979/sentinel-qa) |
-
-**Shadow Extraction:**
-- Autonomous web interaction testing
-- AI-powered regression detection
-- Automated failure diagnosis & reporting
-
-</details>
-
-<details>
-<summary><b>💰 GenAI Financial Guardian — Smart Money Master</b></summary>
-
-**Description:** AI financial analysis system with expense categorization, predictive insights, and smart recommendations.
-
-| Stat | Details |
-| :--- | :--- |
-| **Stack** | JavaScript · GenAI APIs · React · Express |
-| **⭐ Stars** | 5⭐ Community Recognition |
-| **Status** | 🟢 Production Ready |
-| **Repo** | [Guardian Protocol](https://github.com/kiran797979/GenAI_Financial_Guardian) |
 
 **Shadow Extraction:**
 - AI-powered expense analysis & categorization
@@ -274,124 +193,6 @@
 </details>
 
 <details>
-<summary><b>📊 AI Price Tracker — Market Intelligence System</b></summary>
-
-**Description:** Real-time price tracking with AI prediction. Market trends, alerts, predictive analytics for smart trading.
-
-| Stat | Details |
-| :--- | :--- |
-| **Stack** | Python · Web Scraping · ML · pandas · numpy |
-| **⭐ Stars** | 6⭐ Community Recognition |
-| **Status** | 🟢 Production |
-| **Repo** | [Price Hunter](https://github.com/kiran797979/AI-Price_Tracker) |
-
-**Shadow Extraction:**
-- Autonomous price tracking system
-- Market trend prediction algorithms
-- Intelligent alert mechanisms
-- Data pipeline automation
-
-</details>
-
-<details>
-<summary><b>📖 AI Document RAG — Knowledge Extraction</b></summary>
-
-**Description:** RAG system for intelligent document querying using embeddings, vector search, and context-aware QA.
-
-| Stat | Details |
-| :--- | :--- |
-| **Stack** | Python · LangChain · Vector DBs · LLMs |
-| **⭐ Stars** | 4⭐ Community Recognition |
-| **Status** | 🟢 Production |
-| **Repo** | [Knowledge Gate](https://github.com/kiran797979/AI_Document_RAG) |
-
-**Shadow Extraction:**
-- Document embedding & semantic search
-- Context-aware QA system
-- Multi-document knowledge synthesis
-
-</details>
-
-<details>
-<summary><b>🎨 AI Content Creator — Multi-Format Generation</b></summary>
-
-**Description:** AI content creation across all formats: blog posts, code, tweets, emails from a single intelligent prompt.
-
-| Stat | Details |
-| :--- | :--- |
-| **Stack** | TypeScript · GenAI APIs · React |
-| **Status** | 🟢 Active Development |
-| **Repo** | [Creator Spell](https://github.com/kiran797979/AI_CONTENT_CREATOR) |
-
-**Shadow Extraction:**
-- Multi-format content generation
-- Style & tone customization engine
-- Bulk content creation pipeline
-
-</details>
-
-### 🗡️ Tier B — Rare Clears
-
-<details>
-<summary><b>🛒 QKart E-Commerce — Full Stack Fortress</b></summary>
-
-**Description:** Complete e-commerce platform: frontend, backend, database, payments — production-grade stack.
-
-| Stat | Details |
-| :--- | :--- |
-| **Stack** | React · Node.js · MongoDB · Express · Stripe |
-| **⭐ Stars** | Frontend: 6⭐ · Backend: 4⭐ |
-| **Status** | 🟢 Live |
-| **Modules** | [Frontend](https://github.com/kiran797979/Qkart---Frontend) · [Backend](https://github.com/kiran797979/Qkart_backend) |
-
-**Shadow Extraction:**
-- Scalable React frontend with Redux state management
-- Node.js RESTful backend with JWT authentication
-- MongoDB database schema optimization
-- Stripe payment integration
-- Order tracking & inventory management
-
-</details>
-
-<details>
-<summary><b>✈️ QTrip Travel Booking — Journey Planner</b></summary>
-
-**Description:** Travel booking system showcasing skill progression from static HTML to dynamic React architecture.
-
-| Stat | Details |
-| :--- | :--- |
-| **Stack** | JavaScript · React · HTML/CSS · APIs |
-| **⭐ Stars** | Dynamic: 7⭐ · Static: 5⭐ |
-| **Status** | 🟢 Live |
-| **Modules** | [Static](https://github.com/kiran797979/Qtrip----Static) · [Dynamic](https://github.com/kiran797979/QTrip---Dynamic) |
-
-**Shadow Extraction:**
-- Responsive UI design & CSS optimization
-- Dynamic filtering, search & sorting
-- Real-time booking system
-- Google Maps API integration
-
-</details>
-
-<details>
-<summary><b>💳 Jupiter Wallet — Solana Web3 Integration</b></summary>
-
-**Description:** Web3 wallet dApp with Solana integration: token swaps, secure key management, blockchain interaction.
-
-| Stat | Details |
-| :--- | :--- |
-| **Stack** | TypeScript · Solana · React · Web3.js |
-| **⭐ Stars** | 9⭐ Community Love |
-| **Status** | 🟢 Live |
-| **Repo** | [Wallet Protocol](https://github.com/kiran797979/jupiter-wallet) |
-
-**Shadow Extraction:**
-- Solana wallet integration & management
-- Token swapping via Jupiter API
-- Secure key management practices
-- Transaction history & analytics
-
-</details>
 
 <br />
 
