@@ -42,37 +42,6 @@
 <td width="50%">
 
 ```
-╔════════════════════════════════════════════════╗
-║        🌑 DUNGEON BREAKER PROFILE 🌑           ║
-║     SUNG JINWOO'S SHADOW EXTRACTION MODE       ║
-╠════════════════════════════════════════════════╣
-║  NAME        → Kiran (The Shadow)              ║
-║  RANK        → S-RANK DEVELOPER (Rising)       ║
-║  LEVEL       → 🔴 LVL 32                       ║
-║  EXP         → 847,293 / 1,000,000             ║
-║  COLLEGE     → Malla Reddy Eng Dungeon         ║
-║  BRANCH      → EEE Magic School                ║
-║  AWAKENING   → 2023 - 2027                     ║
-╠════════════════════════════════════════════════╣
-║  🎯 POWER CLASSIFICATIONS                      ║
-╠════════════════════════════════════════════════╣
-║  💀 SPECIAL ABILITY                            ║
-║     → Multi-Agent Orchestration                ║
-║                                                ║
-║  ⚡ ULTIMATE SKILL                             ║
-║     → Autonomous AI Incident Resolution        ║
-║                                                ║
-║  🔗 BLESSING (Web3 Edition)                    ║
-║     → Smart Contracts Mastery                  ║
-║                                                ║
-║  🤖 SHADOW EXTRACTION                          ║
-║     → Generative AI & LLMs                     ║
-║                                                ║
-║  🎨 SKILL TREE UNLOCKED                        ║
-║     → Full Stack Dominance                     ║
-╚════════════════════════════════════════════════╝
-```
-
 </td>
 <td width="50%" align="center">
 
@@ -100,22 +69,55 @@
 <div align="center">
 
 ### ⚡ Core Spells (Languages)
-![Languages](https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,html,css&theme=dark)
+![Languages](https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,html,css,bash&theme=dark)
 
 ### 🤖 AI Weapons (ML/AI Frameworks)
-![AI Arsenal](https://skillicons.dev/icons?i=tensorflow,pytorch,python&theme=dark)
+![AI Arsenal](https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv,scikitlearn&theme=dark)
 
 ### 🎨 UI Enchantment (Frontend)
-![Frontend Magic](https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui&theme=dark)
+![Frontend Magic](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vite&theme=dark)
 
 ### 🔗 Web3 Grimoire (Blockchain)
-![Blockchain](https://skillicons.dev/icons?i=solidity,ethereum&theme=dark)
+![Blockchain](https://skillicons.dev/icons?i=solidity,ethereum,hardhat,web3js&theme=dark)
 
 ### ⚙️ Infrastructure Tools (DevOps)
-![DevOps](https://skillicons.dev/icons?i=git,github,docker,aws,vscode&theme=dark)
+![DevOps](https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,vscode,linux&theme=dark)
 
 ### 📚 Database Spellbook
-![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark)
+![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase&theme=dark)
+
+</div>
+
+---
+
+## 📊 Power Level (GitHub Stats)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
 
 </div>
 
