@@ -1,66 +1,23 @@
 <div align="center">
 
-<img
-  src="https://media.giphy.com/media/VrtvDMP4ajo5y/giphy.gif"
-  width="700"
-  alt="Solo Leveling"
-/>
+<!-- Typing animation banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Welcome+to+my+Shadow+Realm;I+am+kiran797979+%E2%80%94+The+Hunter;AI+%2F+ML+%7C+Web3+%7C+Full-Stack;Currently+Grinding+Level+32..." alt="Typing SVG" />
 
-<br><br>
+<br/>
 
-<a href="https://github.com/kiran797979">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=850&height=60&lines=Web3+Sorcery+%7C+Generative+AI;Multi-Agent+Orchestration+Specialist;Building+Intelligent+Autonomous+Systems;Currently+Farming+XP+in+the+Shadow+Realm;Hunting+Gates+%7C+Slaying+Bugs+%7C+Shipping+Code"
-    alt="Typing SVG"
-  />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=kiran797979&color=FFD700&style=for-the-badge&label=SHADOW+VISITORS)
+![Followers](https://img.shields.io/github/followers/kiran797979?style=for-the-badge&color=FF1744&labelColor=black&logo=github)
 
 </div>
 
-<br>
+<br/>
 
-## 📍 Shadow Gate Links
+## 📜 The Hunter's Prologue
 
-<div align="center">
+> *"Arise."*
+> A developer who treats every bug as a monster, every deploy as a raid boss, and every stack overflow thread as an ancient scroll. Currently leveling up in **AI/ML**, **Web3**, and **Full-Stack Engineering** — one commit at a time.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF1744?style=for-the-badge&logo=internet-explorer&logoColor=FFD700)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran797979)
-[![GitHub](https://img.shields.io/badge/GitHub%20Hunter-181717?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/kiran797979)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Email](https://img.shields.io/badge/Summon%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiran@example.com)
-
-</div>
-
-<br />
-
----
-
-## ⚔️ `> ./hunter_profile.sh`
-
-<table align="center">
-<tr>
-<td width="50%">
-
-```
-</td>
-<td width="50%" align="center">
-
-<img height="220" src="https://giffiles.alphacoders.com/221/thumb-221695.jpg" alt="Sung Jinwoo Shadow Mode" />
-
-<br /><br />
-
-![Level Progress](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBwaXl3MDNueWtxMXY3Nm5rMnlidDVkODdsMXZ5Y2k2N2puaHNscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
-
-</td>
-</tr>
-</table>
-
-<br clear="both">
-
----
-
-
-<br />
+<br/>
 
 ---
 
@@ -69,7 +26,7 @@
 <div align="center">
 
 ### ⚡ Core Spells (Languages)
-![Languages](https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,html,css,bash&theme=dark)
+![Languages](https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,html,css,bash,cpp&theme=dark)
 
 ### 🤖 AI Weapons (ML/AI Frameworks)
 ![AI Arsenal](https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv,scikitlearn&theme=dark)
@@ -88,184 +45,48 @@
 
 </div>
 
+<br/>
+
 ---
 
-## 📊 Power Level (GitHub Stats)
+## 📊 Power Level (Live Stats)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiran797979&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran797979&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiran797979&theme=radical&hide_border=true)
 
 </div>
 
----
+<br/>
 
 ## 🏆 Trophy Case
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kiran797979&theme=radical&no-frame=true&row=1&column=7)
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Snake
+## 📈 Contribution Grid (Shadow Snake)
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kiran797979/kiran797979/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<br />
+<br/>
 
 ---
 
-## 🎯 S-Rank Specializations
-
-| 💀 Power | 🔥 Mastery | ✨ Description |
-|:---|:---:|:---|
-| **Generative AI & LLMs** | ⭐⭐⭐⭐⭐ | GPT, Claude, LangChain, RAG — Shadow Extracted Knowledge |
-| **Autonomous Agents** | ⭐⭐⭐⭐⭐ | Multi-agent orchestration, CrewAI, incident automation |
-| **Full Stack Dominance** | ⭐⭐⭐⭐⭐ | React, Node.js, TypeScript — Production-Grade Code |
-| **AI/ML Engineering** | ⭐⭐⭐⭐ | ML models, price tracking, content generation |
-| **Web3 & Blockchain** | ⭐⭐⭐⭐ | Solidity, DeFi, Smart Contracts, Crypto Wallets |
-| **Web Testing Assassin** | ⭐⭐⭐⭐ | Autonomous QA, bug hunting, regression detection |
-
-<br />
-
-
-
-<br />
-
----
-
-
-</details>
-
-<details>
-<summary><b>🌑 IncidentZero — Autonomous SRE Shadow Team</b></summary>
-
-**Description:** Multi-agent incident resolution system that detects chaos, diagnoses root cause, and eliminates problems. Pure automation.
-
-| Stat | Details |
-| :--- | :--- |
-| **Stack** | Python · LLMs · Multi-Agent CrewAI · LangChain |
-| **Status** | 🟢 In Production |
-| **Architecture** | Autonomous agent swarm for SRE tasks |
-| **Repo** | [Shadow Protocol](https://github.com/kiran797979/IncidentZero) |
-| **Tech Depth** | LLM-based reasoning, async agent coordination, incident analysis |
-
-**Shadow Extraction:**
-- Architected autonomous SRE agent team using CrewAI
-- Built incident detection & diagnosis engine
-- Implemented root cause analysis automation
-- Created feedback loop for continuous improvement
-
-**Why it's S-Rank:** First-of-its-kind autonomous incident resolution platform.
-
-</details>
-
-
-
-**Shadow Extraction:**
-- AI-powered expense analysis & categorization
-- Smart financial recommendations engine
-- Predictive spending pattern analysis
-- Budget optimization algorithms
-
-</details>
-
-<details>
-
-<br />
-
----
-
-## 🌑 Additional Shadow Soldiers (Supporting Arsenal)
-
-<div align="center">
-
-| Project | Category | Stack | Link |
-|:---|:---|:---|:---:|
-| **Web Interaction Agent** | Autonomous Testing | Python · Playwright | [→](https://github.com/kiran797979/Autonomous_Web_Interaction_Testing_Agent) |
-| **Chatbot AI BOT** | Conversational AI | JavaScript · NLP | [→](https://github.com/kiran797979/Chatbot_AI_BOT) |
-| **Shardeum AI Risk** | Web3 Risk Analysis | TypeScript · Blockchain | [→](https://github.com/kiran797979/Shardeum_AI_Risk) |
-| **KYCLESS** | DeFi Solution | Solidity · Smart Contracts | [→](https://github.com/kiran797979/KYCLESS) |
-| **RailPulse** | Railway Platform | JavaScript · React | [→](https://github.com/kiran797979/RailPulse) |
-| **Medify App** | Healthcare Platform | JavaScript · React | [→](https://github.com/kiran797979/Medifyapp) |
-| **Qtify Music** | Music Streaming | JavaScript · React | [→](https://github.com/kiran797979/Qtify-music) |
-| **Xboard News** | News Aggregation | JavaScript · APIs | [→](https://github.com/kiran797979/Xboard-News) |
-
-</div>
-
-<br />
-
----
-
-## 📊 Battle Statistics Dashboard
-
-<div align="center">
-
-### GitHub Stats Card
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=kiran797979&show_icons=true&hide_border=true&title_color=FF1744&icon_color=FFD700&text_color=c9d1d9&bg_color=0A0F08&count_private=true&include_all_commits=true&theme=radical" />
-
-### Contribution Streak
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=kiran797979&hide_border=true&background=0A0F08&stroke=FF1744&ring=FFD700&fire=FF1744&currStreakLabel=FFD700&theme=radical" />
-
-</div>
-
-<br />
-
-## 📈 Top Languages Mastered
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran797979&layout=compact&hide_border=true&title_color=FF1744&text_color=c9d1d9&bg_color=0A0F08&theme=radical" />
-
-</div>
-
-<br />
-
----
-
-## 🏆 Elite Rankings & Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kiran797979&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15&title_color=FF1744" />
-
-</div>
-
-<br />
-
----
-
-## 📅 Daily Grind (Contribution Activity Graph)
-
-<div align="center">
-
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=kiran797979&bg_color=0a0f08&color=FF1744&line=FFD700&point=FFD700&area=true&hide_border=true)](https://github.com/kiran797979)
-
-</div>
-
-<br />
-
----
-
-## 🎯 Daily Training Quest Log (Current Focus)
+## 🎮 Character Status
 
 ```yaml
-$ shadow_mode --execute --full-power
-
-═══════════════════════════════════════════════════════════
-                    SHADOW TRAINING LOG
-═══════════════════════════════════════════════════════════
-
 current_level: 32
 experience_progress: 847,293 / 1,000,000 (84.7%)
 time_to_next_level: 152,707 XP remaining
@@ -301,11 +122,9 @@ shadow_side_quests:
   ├─ Writing technical blog posts
   ├─ Mentoring junior developers
   └─ Building community tools
-
-═══════════════════════════════════════════════════════════
 ```
 
-<br />
+<br/>
 
 ---
 
@@ -322,7 +141,7 @@ shadow_side_quests:
 | **First S-Rank Project** | ✅ Complete | AI Coliseum | Q2 2024 |
 | **Production Systems** | ✅ Complete | 5+ Live Apps | Ongoing |
 
-<br />
+<br/>
 
 ---
 
@@ -331,14 +150,12 @@ shadow_side_quests:
 <div align="center">
 
 ![Malla Reddy](https://img.shields.io/badge/Malla%20Reddy%20Engineering%20College-FF1744?style=for-the-badge&logo=graduation-cap&logoColor=FFD700)
-
 ![EEE](https://img.shields.io/badge/EEE%20Branch-FFD700?style=for-the-badge&logo=lightning)
-
 ![Portal](https://img.shields.io/badge/Portal%3A%202023%20--%202027-4CAF50?style=for-the-badge&logo=calendar)
 
 </div>
 
-<br />
+<br/>
 
 ---
 
@@ -348,19 +165,16 @@ shadow_side_quests:
 
 **I'm actively recruiting fellow hunters. Let's raid some quests together!**
 
-<br />
+<br/>
 
 [![Summon Email](https://img.shields.io/badge/SUMMON%20ME%20BY%20EMAIL-FF1744?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:kiran@example.com)
-
 [![Shadow LinkedIn](https://img.shields.io/badge/Shadow%20LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/kiran797979)
-
 [![GitHub Dungeon Master](https://img.shields.io/badge/Follow%20On%20GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/kiran797979)
-
 [![Discord Shadow Guild](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFD700)](https://discord.gg)
 
 </div>
 
-<br />
+<br/>
 
 ---
 
@@ -368,75 +182,30 @@ shadow_side_quests:
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║                   SHADOW HUNTER CREED                         ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  🎯 PHILOSOPHY                                                ║
-║  "Even if you fall, never stop climbing. Every failure      ║
-║   is a gate you pass through. Level up or be left behind.    ║
-║   The hunt never ends."                                       ║
-║                                                               ║
-║  💪 COMMITMENT                                                ║
-║  - Build production-grade systems that matter                ║
-║  - Master emerging technologies before they're mainstream    ║
-║  - Collaborate with brilliant minds                          ║
-║  - Never stop learning and evolving                          ║
-║  - Share knowledge with the community                        ║
-║                                                               ║
-║  🎓 LEARNING MINDSET                                          ║
-║  - Today's impossible is tomorrow's standard                 ║
-║  - Failure is just feedback in disguise                      ║
-║  - Every line of code teaches something new                  ║
-║                                                               ║
+║                                                                 ║
+║   "Every expert was once a beginner who refused to give up."   ║
+║                                                                 ║
+║   ⚔  Code like every function is a boss fight — clean,         ║
+║      tested, and no wasted moves.                               ║
+║                                                                 ║
+║   🧠  Learn in public. Ship in public. Fail in public —         ║
+║      that's how a Hunter actually levels up.                    ║
+║                                                                 ║
+║   🤝  No solo grinding forever — the strongest guilds win.      ║
+║      Always open to collabs, mentorship, and raid parties.      ║
+║                                                                 ║
+║   🚀  Mission: build AI systems and decentralized tools that    ║
+║      outlive the hype cycle they were born in.                  ║
+║                                                                 ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<br />
-
----
-
-## 🔥 Quick Stats Summary
+<br/>
 
 <div align="center">
 
-| Metric | Value |
-|:---|:---|
-| **Total Repositories** | 40+ |
-| **Total Stars Earned** | 50+ |
-| **Languages Mastered** | 8+ |
-| **Frameworks Used** | 15+ |
-| **Production Projects** | 10+ |
-| **Open Source Contributions** | Ongoing |
-| **Hackathon Participations** | 5+ |
-| **AI Models Deployed** | 10+ |
-| **Smart Contracts Written** | 5+ |
+### ⚔️ "I don't stop when I'm tired. I stop when I'm done." ⚔️
 
-</div>
-
-<br />
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=FF1744&fontColor=FFD700&text=LEVEL%20UP%20YOUR%20GAME%20%7C%20HUNT%20YOUR%20GOALS%20%7C%20SHIP%20YOUR%20CODE%20%F0%9F%90%89&fontSize=26&animation=fadeIn&section=footer" />
-
-<div align="center">
-
-### 📊 Profile Metadata
-
-![Views](https://komarev.com/ghpvc/?username=kiran797979&color=FF1744&style=flat-square&label=Hunter%20Profile%20Views)
-
-**Shadow Hunter in Training** • **Malla Reddy Engineering Dungeon** • **2023-2027** • **Last Updated: 2026**
-
----
-
-### 💬 Final Shadow Motto
-
-> *"The moment you think you've reached the top is the moment you start falling. Constant growth. Endless possibilities. Welcome to the shadow realm."*
->
-> — **Kiran | S-Rank Developer**
-
----
-
-**Built with passion, code, and a lot of shadows** 🌑⚔️🔥
+![Visitor Count](https://profile-counter.glitch.me/kiran797979/count.svg)
 
 </div>
