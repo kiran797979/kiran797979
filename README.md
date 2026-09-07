@@ -90,20 +90,6 @@
 
 ---
 
-## 💀 My Shadows (Power Stats)
-
-<div align="center">
-
-| 🌑 Stat | Progress | Level |
-|:---|:---|:---:|
-| **AI Mastery** | █████████░ | 9/10 |
-| **Web3 Sorcery** | ███████░░░ | 8/10 |
-| **Full Stack Combat** | █████████░ | 9/10 |
-| **System Design** | ███████░░░ | 8/10 |
-| **Problem Solving** | █████████░ | 9/10 |
-| **Leadership** | █████████░ | 9/10 |
-
-</div>
 
 <br />
 
