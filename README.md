@@ -324,13 +324,19 @@ Always up for collaborating, trading ideas, or just talking shop.
 
 <div align="center">
 
-> Write it clean the first time — future-me is lazy and won't refactor it later.
+> I build to understand — not just to say I built something.
 >
-> Learn in public. Ship in public. It's fine if it's not perfect yet.
+> I like taking ideas from “this could work” to something that's actually running, tested, and useful.
 >
-> The best work rarely happens solo — always down to build with people.
+> I care about clean code, but I care even more about code that solves the right problem.
 >
-> Optimize for things that still matter after the hype dies down.
+> When something breaks, I don't see it as a setback. I usually see it as the part where I learn the most.
+>
+> I’d rather ship something real, learn from it, and improve it than wait forever for perfect.
+>
+> I’m still learning a lot, and that’s part of the fun — keep asking questions, keep experimenting, keep building.
+>
+> And whenever possible, build with good people. The best ideas usually get better when they're shared.
 
 </div>
 
